@@ -11,6 +11,6 @@ You can find it online [here](https://mathieuelisabeth.github.io/find-your-emoji
 To run the project locally
 
 ```
-npm init
+npm install
 npm start
 ```
